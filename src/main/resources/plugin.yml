@@ -1,0 +1,6 @@
+name: DatabaseCore
+version: '0.1'
+main: user.nicolaidybro.databaseCore.DatabaseCore
+api-version: '1.21'
+authors: [ Nicolai Dybro ]
+website: https://nicolaidybro.com/
